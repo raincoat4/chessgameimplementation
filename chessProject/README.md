@@ -7,7 +7,7 @@ pieces, which was essentially their ability to "move" at all.
 
 The project in this respository is the prototype I mentioned above.
 
-<u>Instructions:</u>
+<span style="text-decoration: underline;">Instructions:</span>
 
 To compile, please run the makefile by typing "make" into the terminal.
 
