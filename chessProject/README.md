@@ -17,7 +17,9 @@ This command will give you a command to run the created project.
 
 To move pieces, please click and drag to the desired location.
 
+When finished, the "make clean" command will clean up the repository.  
 
+<br>
 
 As this is a very early stage prototype, there are numerous issues that were fixed later on in production, but will be seen in this repository. Some of these things include: 
 - Pieces not bound by any movement rules (ex. bishop can 5 spaces across the board).
