@@ -9,7 +9,7 @@ The project in this respository is the prototype I mentioned above.
 
 <br>  
 
-**Instructions:**
+**Instructions:
 
 To compile, please run the makefile by typing "make" into the terminal.
 
@@ -17,7 +17,8 @@ This command will give you a command to run the created project.
 
 To move pieces, please click and drag to the desired location.
 
-When finished, the "make clean" command will clean up the repository.  
+When finished, the "make clean" command will clean up the repository.**  
+
 
 <br>
 
