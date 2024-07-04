@@ -1,5 +1,5 @@
 # Chess Game Implementation
-While the submitted final result is private, this repository presents the work I was responsble of for my group.  
+While the submitted final result is private, this repository presents the work I was responsble of for my team.  
 My primary responsibility was to manage the setup of the board, as well as presentation of the pieces. Additionally, while movement restrictions specific to each piece 
 were later organized and implemented by the other members of my team, I had the sole responsibility for the intial prototype, which implemented general movement of the 
 pieces, which was essentially their ability to "move" at all.  
